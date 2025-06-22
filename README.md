@@ -2,6 +2,8 @@
 
 A lightweight encyclopedia-like application built with Django. Users can browse, search, and edit entries written in Markdown.
 
+Here's a video of this project in action: https://www.youtube.com/watch?v=5aF1kCDou9w
+
 ## ✨ Features
 
 - View all existing encyclopedia entries
